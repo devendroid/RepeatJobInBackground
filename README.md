@@ -9,3 +9,5 @@ Do work in background (either app is open or not)
 ## Handler with Runnable
 To repeat the job inside service
 
+## RxJava and RxAndroid
+To execute the Jobs
